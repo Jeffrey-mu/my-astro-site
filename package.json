@@ -11,5 +11,14 @@
   },
   "devDependencies": {
     "astro": "^1.0.8"
+  },
+  "dependencies": {
+    "@astrojs/react": "^1.0.0",
+    "@astrojs/svelte": "^1.0.0",
+    "@astrojs/vue": "^1.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "svelte": "^3.49.0",
+    "vue": "^3.2.37"
   }
 }
